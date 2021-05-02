@@ -1,4 +1,4 @@
 # martialarts.github.io
-https://martial-arts.netlify.app/
+https://thirsty-kowalevski-e1b72e.netlify.app/
 
 https://github.com/deepak786om/martialart
